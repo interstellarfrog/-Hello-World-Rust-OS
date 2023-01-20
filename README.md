@@ -7,7 +7,7 @@ this uses A .BIN file instead of A .ISO file so a good way to run this OS is usi
 
 
 # How to run this in qemu Windows
-Once downloaded run "qemu-system-x86_64" in your windows powershell/command promt if this doesn't return anything you can add it to your enviromental path or just run it from the qemu folder directly with the .BIN file inside once finished setting it up run "qemu-system-x86_64 -drive format=raw,file=my_os.bin"
+[Download the .BIN](https://github.com/interstellarfrog/-Hello-World-Rust-OS/raw/main/my_os.bin) once downloaded run "qemu-system-x86_64" in your windows powershell/command promt if this doesn't return anything you can add it to your enviromental path or just run it from the qemu folder directly with the .BIN file inside once finished setting it up run "qemu-system-x86_64 -drive format=raw,file=my_os.bin"
 and now the OS should be on your'e screen
 
 
