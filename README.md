@@ -17,7 +17,3 @@ and now the OS should be on your'e screen
 # Credit 
 
 All credit goes to Philipp Oppermann you can follow his blog/tutorial on creating A Rust Operating System on [his website](https://os.phil-opp.com/)
-
-# License
-
-You can do whatever you want with this code
